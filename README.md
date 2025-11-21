@@ -6,6 +6,12 @@ Author: Tyler Arias
 Overview
 This project analyzes violent crime trends in Phoenix, Arizona using public arrest data from the Arizona Department of Public Safety (AZDPS). The analysis explores demographic patterns, gender differences and time-based crime trends. The project also uses predictive modeling, to forecast crime rates up to 2030 and multiple statistical and machine learning techniques. The purpose of this project is to understand historical crime patterns, evaluate demographi disparities, and provide actionable insights for public policy.
 
+Navigating the Repository
+Raw Folders: These folders contain the original data before filtering / combining that I used for this project.
+2017_2025_combined.csv: Is the combined file after executing the combining_data script used for analysis.
+Violent_Crime_Power_BI_Visuals: Provides a visualization of the combined csv file.
+analyzing_data: This file provides further insight / analysis structured with by the research questions asked and followed with visuals.
+
 Research Questions
 1. Are people of a certain race more likely to commit crime?
 2. Is there a difference in violent crime arrests between male and female over time?
