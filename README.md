@@ -29,6 +29,10 @@ Matplotlib / Seaborn - data visualization
 Statsmodels - linear regression, ordinary least squares (OLS) tests, ARIMA
 Scikit-learn - polynomial regression
 
+How to run the code
+jupyter notebook
+python main.py
+
 Key Findings
 Gender: Males had significantly higher violent crime arrest totals than females across all years.
 Race: Significant differences exist across racial groups in arrest rates.
